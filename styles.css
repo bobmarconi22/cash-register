@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(7, 44, 56);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: bisque;
+    text-align: center;
+}
+
+input{
+    background-color: bisque;
+    border: 1px solid black;
+    border-radius: 4px;
+    height: 20px;
+}
+
+
+button{
+    background-color: rgb(3, 26, 109);
+    color: bisque;
+    border: 1px solid bisque;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 15px;
+    margin-left: 6px;
+}
+
+
+#show-cid{
+    border: 1px solid black;
+    padding: 15px;
+
+}
+
+#show-cid > h5{
+    color: rgb(3, 10, 107);
+    font-size: 20px;
+    padding-top: 0px;
+}
